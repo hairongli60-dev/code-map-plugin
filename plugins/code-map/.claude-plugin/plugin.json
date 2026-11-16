@@ -1,0 +1,14 @@
+{
+  "name": "code-map",
+  "version": "0.1.0",
+  "description": "生成并维护项目代码地图（CODE_MAP.md），并拦截 agent 把脚本写到临时目录的行为",
+  "author": {
+    "name": "hairongli60-dev"
+  },
+  "keywords": [
+    "code-map",
+    "inventory",
+    "token-saving",
+    "hooks"
+  ]
+}

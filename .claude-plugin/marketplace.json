@@ -1,0 +1,13 @@
+{
+  "name": "ai-toolkit",
+  "owner": {
+    "name": "hairongli60-dev"
+  },
+  "plugins": [
+    {
+      "name": "code-map",
+      "source": "./plugins/code-map",
+      "description": "生成并维护项目代码地图，同时拦截 agent 往临时目录乱写脚本的行为"
+    }
+  ]
+}

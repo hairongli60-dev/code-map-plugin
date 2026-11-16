@@ -1,0 +1,17 @@
+# 数据、产物、日志不进仓库
+*.mat
+*.bdf
+*.edf
+*.npy
+*.npz
+*.pkl
+*.h5
+*.pt
+*.pth
+*.onnx
+*.log
+
+# 系统
+.DS_Store
+Thumbs.db
+*.swp
